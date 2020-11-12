@@ -1,2 +1,3 @@
 # Algorithms
-This repository contains implementation of a different algorithms in Java Script
+This repository contains different algorithms implemented in Java Script
+
